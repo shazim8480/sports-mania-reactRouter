@@ -1,0 +1,24 @@
+.details-header-container{
+    position: relative;
+    background-image: url(../../Images/stadium.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 362px;
+}
+.details-header-overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background : rgba(255, 255, 255, 0.6);
+    
+}
+.team-badge{
+    position: absolute;
+    width: 208.98px;
+    height: 213px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+

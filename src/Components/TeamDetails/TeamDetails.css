@@ -1,0 +1,54 @@
+.details-container{
+    background-color: #02064a;
+
+}
+.club-container{
+    display: flex;
+    background-color: #3A42FF;
+    width: 970px;
+    padding: 10px 30px;
+    border-radius: 15px;
+    margin : 20px 0;
+}
+.club-info{
+    color : white;
+    padding: 28px 0;
+}
+.team-infoTitle{
+    padding-bottom: 20px;
+}
+.conditional-img img{
+    width: 400px;
+    height: 257px;
+    border-radius: 16px;
+    margin-left: 65%;
+}
+.description-container{
+    padding : 20px 140px;
+}
+.description-container p{
+    color : #C6C6C6;
+    font-weight : 400;
+    line-height: 28px;
+    font-size: 20px;
+    text-align: justify;
+}
+.social-icon{
+    width : 50px !important;
+    height : 50px !important;
+    margin-left: 25px;
+    border-radius: 50%;
+    padding: 10px;
+}
+.twitter{
+    background-color: #00AACE;
+    color : white
+}
+.facebook{
+    background-color : #3B5998;
+    color: white;
+}
+.youtube{
+    color: white;
+    background-color: #FF0000;
+}

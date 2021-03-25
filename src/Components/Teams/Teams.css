@@ -1,0 +1,38 @@
+.team-img{
+    position: absolute;
+    left: 50%;
+    top: 28%;
+    transform: translate(-50%, -50%);
+    width: 130px;
+    height: 130px;
+}
+.team-inner{
+    width: 370px !important;
+    height: 362px !important;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1) !important;
+    border-radius: 4px !important;
+    background-color: azure !important
+}
+.card-body-custom{
+    position: absolute;
+    left: 50%;
+    top: 65%;
+    transform: translate(-50%, -50%);
+}
+.card-title-custom{
+    text-align: center !important;
+}
+.main-btn{
+    position: absolute;
+    top: 108%;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    width: 131px !important;
+    height: 48px !important;
+    color: white !important;
+    background-color: #3A42FF !important;
+    border-color: #3A42FF;
+}
+.explore-icon{
+    margin-left: 10px;
+}

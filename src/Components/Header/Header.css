@@ -1,0 +1,27 @@
+.header-container{
+    position: relative;
+    background-image: url(../../Images/stadium.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 362px;
+}
+.header-overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background : rgba(0, 0, 0, 0.5);
+    
+}
+.header-title{
+    padding:155px 0;
+    text-align: center;
+    color: #ffff
+}
+.logo{
+    height : 75px;
+    width: 75px;
+    position: absolute;
+    left: 47%;
+    top: 19%;
+}
