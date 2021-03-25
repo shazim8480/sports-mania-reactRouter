@@ -63,16 +63,16 @@ const TeamDetails = () => {
       </div>
 
       <div className="social-container d-flex pb-4 justify-content-center">
-        <a href="#" target="_blank">
+        <a rel="noreferrer" href="http://example.com" target="_blank">
           <FontAwesomeIcon className="social-icon twitter" icon={faTwitter} />
         </a>
-        <a href="#" target="_blank">
+        <a rel="noreferrer" href="http://example.com" target="_blank">
           <FontAwesomeIcon
             className="social-icon facebook"
             icon={faFacebookF}
           />
         </a>
-        <a href="#" target="_blank">
+        <a rel="noreferrer" href="http://example.com" target="_blank">
           <FontAwesomeIcon className="social-icon youtube" icon={faYoutube} />
         </a>
       </div>
