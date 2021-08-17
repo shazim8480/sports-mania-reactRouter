@@ -1,4 +1,4 @@
-# Getting Started with React-router assignment
+# Sports Mania with React-Router
 
 This assignment includes react-router, react-bootstrap and also some font-awesome icons.
 
